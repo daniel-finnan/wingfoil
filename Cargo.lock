@@ -6988,7 +6988,7 @@ checksum = "589f6da84c646204747d1270a2a5661ea66ed1cced2631d546fdfb155959f9ec"
 
 [[package]]
 name = "wingfoil"
-version = "6.0.3"
+version = "6.0.4"
 dependencies = [
  "aeron-rs",
  "anyhow",
@@ -7059,7 +7059,7 @@ dependencies = [
 
 [[package]]
 name = "wingfoil-derive"
-version = "6.0.3"
+version = "6.0.4"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -7068,7 +7068,7 @@ dependencies = [
 
 [[package]]
 name = "wingfoil-python"
-version = "6.0.3"
+version = "6.0.4"
 dependencies = [
  "anyhow",
  "chrono",
@@ -7087,7 +7087,7 @@ dependencies = [
 
 [[package]]
 name = "wingfoil-wire-types"
-version = "6.0.3"
+version = "6.0.4"
 dependencies = [
  "anyhow",
  "bincode",
